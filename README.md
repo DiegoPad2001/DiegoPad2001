@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am currently finishing my studies in software engineering.<br>🤓 I am currently focusing on learning more about data analytics and artificial intelligence.<br>📟 I am looking to collaborate in companies that have high impact and can help me grow professionally.<br>📫 How to contact me: linkedin.com/in/ingdiegopadilla
+👨‍🎓 I am currently finishing my studies in software engineering.<br>🤓 I am currently focusing on learning more about data analytics and artificial intelligence.<br>📟 I am looking to collaborate in companies that have high impact and can help me grow professionally.<br>
 
 
 ## 🌐 Socials:
